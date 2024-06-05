@@ -43,6 +43,7 @@ class Cell:
 
          
      def check_n_dead(self):
+         #check dead cells
         self.n_cells = 0
           
 
